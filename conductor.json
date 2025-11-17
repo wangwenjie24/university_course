@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "setup": "./conductor-setup.sh",
+        "run": "uv run python weather_app.py",
+        "notebook": "uv run jupyter notebook"
+    }
+}
